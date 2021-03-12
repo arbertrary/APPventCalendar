@@ -1,4 +1,4 @@
-# APPventCalendar
+# AppventCalendar
 
 A small Kotlin Android project in preparation of Christmas 2021.
 
